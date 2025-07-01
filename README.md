@@ -1,4 +1,3 @@
-# -Bright-Motor-Company
 # Bright Automotive Customer Insights Project
 
 This project analyzes customer demographics, financial profiles, and car preferences to uncover patterns in purchasing behavior. The goal is to help **Bright Automotive** make data-driven decisions in marketing, product alignment, and customer targeting.
